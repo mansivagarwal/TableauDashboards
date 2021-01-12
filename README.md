@@ -1,2 +1,2 @@
 # TableauDashboards
-## Adding all the random dashboards created
+## This repository contains all the random dashboards created from various datasets.
